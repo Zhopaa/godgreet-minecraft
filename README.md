@@ -8,7 +8,7 @@
 ### Скриншоты с тестового сервера / Test server screenshots
 | | |
 |---|---|
-| ![Arrival](media/01_arrival.jpg) | ![Halo, glow and carpet](media/02_halo_glow_carpet.jpg) |
+| ![Arrival](media/01_arrival_v2.jpg) | ![Halo, glow and carpet](media/02_halo_glow_carpet_v2.jpg) |
 
 _Paper 26.1.2: титр явления, боссбар, нимб, свечение и красная дорожка / arrival title, boss bar, halo, glow and red carpet._
 
