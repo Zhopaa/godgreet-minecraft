@@ -5,6 +5,13 @@
 > 🔒 Исходный код закрыт. В репозитории только описание плагина.
 > 🔒 Source code is private. This repo contains a showcase only.
 
+### Скриншоты с тестового сервера / Test server screenshots
+| | |
+|---|---|
+| ![Arrival](media/01_arrival.jpg) | ![Halo, glow and carpet](media/02_halo_glow_carpet.jpg) |
+
+_Paper 26.1.2: титр явления, боссбар, нимб, свечение и красная дорожка / arrival title, boss bar, halo, glow and red carpet._
+
 ---
 
 ## Русский
